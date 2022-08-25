@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\bin\Debug\net6.0\Examp68.exe
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\bin\Debug\net6.0\Examp68.deps.json
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\bin\Debug\net6.0\Examp68.runtimeconfig.json
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\bin\Debug\net6.0\Examp68.dll
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\bin\Debug\net6.0\Examp68.pdb
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.dll
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\refint\Examp68.dll
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.pdb
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\Examp68.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\homework09\Examples10\Examp68\obj\Debug\net6.0\ref\Examp68.dll
